@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.GenPDFBtn = new System.Windows.Forms.Button();
             this.OpenFileBtn = new System.Windows.Forms.Button();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -52,8 +52,36 @@
             this.panel1.Size = new System.Drawing.Size(424, 406);
             this.panel1.TabIndex = 0;
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(36, 330);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(343, 22);
+            this.textBox1.TabIndex = 5;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(223, 83);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(101, 16);
+            this.label2.TabIndex = 4;
+            this.label2.Text = "Using JSON file";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Modern No. 20", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(89, 49);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(235, 34);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "PDF Generator";
+            // 
             // GenPDFBtn
             // 
+            this.GenPDFBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.GenPDFBtn.Location = new System.Drawing.Point(231, 357);
             this.GenPDFBtn.Name = "GenPDFBtn";
             this.GenPDFBtn.Size = new System.Drawing.Size(148, 23);
@@ -64,6 +92,7 @@
             // 
             // OpenFileBtn
             // 
+            this.OpenFileBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OpenFileBtn.Location = new System.Drawing.Point(135, 357);
             this.OpenFileBtn.Name = "OpenFileBtn";
             this.OpenFileBtn.Size = new System.Drawing.Size(90, 23);
@@ -80,33 +109,6 @@
             this.richTextBox1.Size = new System.Drawing.Size(343, 202);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = "";
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Modern No. 20", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(85, 47);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(235, 34);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "PDF Generator";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(260, 92);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(101, 16);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Using JSON file";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(36, 330);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(343, 22);
-            this.textBox1.TabIndex = 5;
             // 
             // Form1
             // 

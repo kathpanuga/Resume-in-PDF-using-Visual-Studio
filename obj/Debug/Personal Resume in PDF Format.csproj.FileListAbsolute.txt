@@ -15,3 +15,18 @@ C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal
 C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\obj\Debug\Personal Resume in PDF Format.csproj.CopyComplete
 C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\obj\Debug\Personal Resume in PDF Format.exe
 C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\obj\Debug\Personal Resume in PDF Format.pdb
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\libSkiaSharp.dylib
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\SkiaSharp.dll
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\System.Buffers.dll
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\System.Memory.dll
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\SkiaSharp.pdb
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\SkiaSharp.xml
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\System.Buffers.xml
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\System.Memory.xml
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kathlene Panuga\Desktop\OOP code\Personal Resume in PDF Format\Personal Resume in PDF Format\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

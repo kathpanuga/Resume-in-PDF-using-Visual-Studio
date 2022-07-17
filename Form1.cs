@@ -43,5 +43,32 @@ namespace Personal_Resume_in_PDF_Format
             document.Close();
             MessageBox.Show("PDF saved!");
         }
+
+        public class Resume
+        {
+            public string Fullname { get; set; }
+            public string Position { get; set; }
+            public string Address { get; set; }
+            public int PhoneNumber { get; set; }
+            public string Email { get; set; }
+            public string Profile { get; set; }
+        }
+        public class Education
+        {
+            public List<int> Year { get; set; }
+            public List<string> School { get; set; }
+            public List<string> DegreeTitle { get; set; }
+        }
+        public class Highlights
+        {
+            public List<string> Highlight { get; set; }
+        }
+        public class Experiences
+        {
+            public List<int> Year { get; set; }
+            public List<string> JobTitle { get; set; }
+            public List<string> Company { get; set; }
+            public List<string> Description { get; set; }
+        }
     }
 }
