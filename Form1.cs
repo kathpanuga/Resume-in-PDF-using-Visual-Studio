@@ -42,37 +42,37 @@ namespace Personal_Resume_in_PDF_Format
 
             PdfPTable name = new PdfPTable(1);
             name.DefaultCell.BorderWidth = 0;
-            name.WidthPercentage = 80;
+            name.WidthPercentage = 100;
             BaseFont Ver = BaseFont.CreateFont(BaseFont.HELVETICA_BOLD, BaseFont.CP1252, BaseFont.NOT_EMBEDDED);
             iTextSharp.text.Font bold = new iTextSharp.text.Font(Ver, 20, iTextSharp.text.Font.BOLD);
             Chunk chunk = new Chunk("Kathlene Ann M. Panuga", bold);
-            name.HorizontalAlignment = Element.ALIGN_LEFT;
+            name.DefaultCell.HorizontalAlignment = Element.ALIGN_CENTER;
             name.AddCell(new Phrase(chunk));
             document.Add(name);
 
             PdfPTable position = new PdfPTable(1);
             position.DefaultCell.BorderWidth = 0;
-            position.WidthPercentage = 80;
+            position.WidthPercentage = 100;
             BaseFont poss = BaseFont.CreateFont(BaseFont.HELVETICA, BaseFont.CP1252, BaseFont.NOT_EMBEDDED);
             iTextSharp.text.Font Normal11 = new iTextSharp.text.Font(poss, 11, iTextSharp.text.Font.NORMAL);
             Chunk pos = new Chunk ("Computer Engineer Intern", Normal11);
-            position.HorizontalAlignment = Element.ALIGN_LEFT;
+            position.DefaultCell.HorizontalAlignment = Element.ALIGN_CENTER;
             position.AddCell(new Phrase(pos));
             document.Add(position);
 
             PdfPTable number = new PdfPTable(1);
             number.DefaultCell.BorderWidth = 0;
-            number.WidthPercentage = 80;
+            number.WidthPercentage = 100;
             Chunk no = new Chunk("09357638995", Normal11);
-            number.HorizontalAlignment = Element.ALIGN_LEFT;
+            number.DefaultCell.HorizontalAlignment = Element.ALIGN_CENTER;
             number.AddCell(new Phrase(no));
             document.Add(number);
 
             PdfPTable email = new PdfPTable(1);
             email.DefaultCell.BorderWidth = 0;
-            email.WidthPercentage = 80;
+            email.WidthPercentage = 100;
             Chunk eml = new Chunk("kathlinnaaaa@gmail.com", Normal11);
-            email.HorizontalAlignment = Element.ALIGN_LEFT;
+            email.DefaultCell.HorizontalAlignment = Element.ALIGN_CENTER;
             email.AddCell(new Phrase(eml));
             document.Add(email);
 

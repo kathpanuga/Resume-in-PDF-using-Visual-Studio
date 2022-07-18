@@ -93,9 +93,9 @@
             // OpenFileBtn
             // 
             this.OpenFileBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.OpenFileBtn.Location = new System.Drawing.Point(135, 357);
+            this.OpenFileBtn.Location = new System.Drawing.Point(114, 357);
             this.OpenFileBtn.Name = "OpenFileBtn";
-            this.OpenFileBtn.Size = new System.Drawing.Size(90, 23);
+            this.OpenFileBtn.Size = new System.Drawing.Size(111, 23);
             this.OpenFileBtn.TabIndex = 1;
             this.OpenFileBtn.Text = "Open File";
             this.OpenFileBtn.UseVisualStyleBackColor = true;
