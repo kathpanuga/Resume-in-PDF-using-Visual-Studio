@@ -1,0 +1,43 @@
+
+  "Fullname": "Kathlene Ann M. Panuga",
+  "Position": "Computer Engineer Intern",
+  "Address": "Sucat, Muntinlupa City",
+  "PhoneNumber": "09357638995",
+  "Email": "kathlinnaaaa@gmail.com",
+  "Profile": "A motivated student pursuing a Bachelor of Science in Computer Engineering at the Polytechnic University of the Philippines. Eager to join CTRL X Inc. as Computer Engineer intern to help establish quick and long-lasting relationships with co-workers. Willing to learn knowledge and skills",
+  "Education": [
+    {
+      "Year": "2021-2022",
+      "School": "Polytechnic University of the Philippines",
+      "DegreeTitle": "Bachelor of Science in Computer Engineering"
+    },
+    {
+      "Year": "2019-2020",
+      "School": "Lakewood School of Alabang Inc.",
+      "DegreeTitle": "Senior High School Graduate"
+    }
+  ],
+  "Highlights": [
+    "Python",
+    "C#",
+    "HTML",
+    "AutoCAD"
+  ],
+  "Experiences": [
+    {
+      "Year": "2019-2020",
+      "JobTitle": "Grade 12 Immersion",
+      "Company": "Teleperformance"
+    },
+    {
+      "Year": "2016-2017",
+      "JobTitle": "On the Job Training",
+      "Company": "Petron"
+    }
+  ],
+"AdditionalInfo": [
+  {
+    "Honor Student",
+    "President's Lister",
+    "Best in Immersion"
+}
